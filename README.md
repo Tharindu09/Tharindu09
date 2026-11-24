@@ -15,7 +15,7 @@
 ## 🧑‍💻 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=FFFFFF,00FF41,00FF41,FFFFFF,00FF41,00FF41,00FF41,FFFFFF,00FF41,00FF41,00FF41,FFFFFF,00FF41&center=false&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=280&lines=tharindu%40kali%3A~%24+whoami;Computer+Engineering+Undergraduate+%40+University+of+Peradeniya;+;tharindu%40kali%3A~%24+echo+%24INTERESTS;DevOps+%7C+Cloud+Infrastructure+%7C+Backend+Systems+%7C+Cybersecurity;Embedded+Systems+%7C+Distributed+Systems;+;tharindu%40kali%3A~%24+cat+mission.txt;Building+secure+scalable+systems+integrating+embedded+devices%2C;cloud+platforms%2C+backend+services+and+real-time+data+pipelines;+;tharindu%40kali%3A~%24+exit;logout" alt="Terminal Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=FFFFFF,00FF41,00FF41,FFFFFF,00FF41,00FF41,00FF41,FFFFFF,00FF41,00FF41,00FF41,FFFFFF,00FF41&center=false&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=280&lines=tharindu%40kali%3A~%24+whoami;Computer+Engineering+graduate+%40+University+of+Peradeniya;+;tharindu%40kali%3A~%24+echo+%24INTERESTS;DevOps+%7C+Cloud+Infrastructure+%7C+Backend+Systems+%7C+Cybersecurity;Embedded+Systems+%7C+Distributed+Systems;+;tharindu%40kali%3A~%24+cat+mission.txt;Building+secure+scalable+systems+integrating+embedded+devices%2C;cloud+platforms%2C+backend+services+and+real-time+data+pipelines;+;tharindu%40kali%3A~%24+exit;logout" alt="Terminal Animation" />
 </p>
 
 ---
